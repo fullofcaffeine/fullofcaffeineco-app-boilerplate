@@ -114,7 +114,7 @@
     "http-proxy-middleware": "^0.19.1",
     "jest": "^23.6.0",
     "mini-css-extract-plugin": "^0.8.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "npm-watch": "^0.6.0",
     "open-browser-webpack-plugin": "github:rodrigopandini/open-browser-webpack-plugin",
     "postcss-assets": "^5.0.0",
