@@ -60,7 +60,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-manifest-helpers": "^0.6.0",
     "mobx": "^5.13.0",
     "mobx-react": "^6.1.3",
